@@ -5,9 +5,10 @@ The bisection method is a technique for finding the roots of a real-valued funct
 
 The raise statement allows you to force a specific exception to occur. It consists of the raise keyword followed by the exception type, and enables you to provide a custom error message:
 
-    Example Code:
-        raise ValueError("Invalid value")
-
+Example Code:
+```
+    raise ValueError("Invalid value")
+```
 
 The _ acts as a placeholder and is useful when you need to use a variable but don't actually need its value.
 
